@@ -20,6 +20,7 @@
  
  http://www.arduino.cc/en/Tutorial/Midi
  
+ Other commit :D
  */
 
 void setup() {
